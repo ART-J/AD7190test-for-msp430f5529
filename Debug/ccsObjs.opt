@@ -1,0 +1,1 @@
+"./main.obj" "./src/AD7190.obj" "./src/HAL_PMM.obj" "./src/ucs.obj" "./src/usci_b1_spi.obj" "./src/temp/UCS_INIT.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
